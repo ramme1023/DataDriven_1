@@ -1,0 +1,9 @@
+00:32:26.413 [main] DEBUG excelData.UdemyExamples - Setting chrome driver property
+00:32:32.174 [main] INFO  excelData.UdemyExamples - Window Maximized
+00:32:32.174 [main] DEBUG excelData.UdemyExamples - Now hitting Amazon server
+00:32:35.286 [main] INFO  excelData.UdemyExamples - Landed on amazon home page
+00:32:40.286 [main] DEBUG excelData.UdemyExamples - Getting the frames count
+00:32:40.482 [main] INFO  excelData.UdemyExamples - Frames count retreived
+00:32:40.511 [main] INFO  excelData.UdemyExamples - Successfully switched to frame
+00:32:40.511 [main] DEBUG excelData.UdemyExamples - Identifying Draggable objects
+00:32:40.944 [main] INFO  excelData.UdemyExamples - Drag and drop success

@@ -1,0 +1,9 @@
+23:52:34.971 [main] INFO  excelData.Trail1 - text
+23:52:34.977 [main] DEBUG excelData.Trail1 - Debug message
+23:52:34.978 [main] ERROR excelData.Trail1 - Error messgae
+23:52:34.978 [main] FATAL excelData.Trail1 - Fatal messgae
+23:52:51.953 [main] INFO  excelData.Trail1 - text
+23:52:51.959 [main] DEBUG excelData.Trail1 - Debug message
+23:52:51.959 [main] ERROR excelData.Trail1 - Error messgae
+23:52:51.959 [main] FATAL excelData.Trail1 - Fatal messgae
+23:55:49.621 [main] INFO  excelData.Trail1 - text
